@@ -1,14 +1,8 @@
-# Gainesville PowerShell User Group Meeting September 11, 2019
+# Gainesville PowerShell User Group Meeting
+# September 11, 2019
 ## Error Handling and Logging in PowerShell with Tim Curwick
 
 Any script that requires human interaction is a broken script. But for our scripts to run unattended, they need to know how to handle the unexpected, and we need to know what they did. Join us this month to hear Tim Curwick, PowerShell MVP, author, and automation consultant, cover basic and advanced error handling and logging techniques.
-
-Pizza will be provided
-
-Agenda
-6:00 - 6:30 - Welcome and Pizza
-6:30 - 7:30 - Presentation
-7:30 - 8:00 - Discussion and Cleanup
 
 ### Presentation Recording
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=e9UI0bFKApY
