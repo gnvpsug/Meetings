@@ -13,7 +13,9 @@ alt="Introduction to PowerShell Debugging - Kirk Munro" width="480" height="360"
 
 
 ### Code
+[View](https://github.com/gnvpsug/Meetings/tree/master/2019-10-09%20Introduction%20to%20PowerShell%20Debugging%20-%20Kirk%20Munro/Code)
 
+[Download-Zip]("https://github.com/gnvpsug/Meetings/tree/master/2019-10-09%20Introduction%20to%20PowerShell%20Debugging%20-%20Kirk%20Munro/Code/Introduction to PowerShell Debugging-GNVPSUG-20191009.zip")
 
 ### Attendees
 7
