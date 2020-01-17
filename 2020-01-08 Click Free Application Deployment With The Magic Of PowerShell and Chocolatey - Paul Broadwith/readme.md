@@ -15,10 +15,16 @@ After this talk, you will come away with an understanding of:
 * How to keep the software on your computer continuously up to date and keep it secure;
 
 ### Presentation Recording
-Coming Soon
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=9EQ65F9NaAw
+" target="_blank"><img src="http://img.youtube.com/vi/9EQ65F9NaAw/0.jpg" 
+alt="Click Free Application Deployment With The Magic Of PowerShell and Chocolatey - Paul Broadwith" width="480" height="360" border="10" /></a>
 
 ### Code
-Coming Soon
+[Demo.ps1](Demo.ps1)
+
+[package.tests.ps1](package.tests.ps1)
+
+[packages.config](packages.config)
 
 ### Attendees
 6
