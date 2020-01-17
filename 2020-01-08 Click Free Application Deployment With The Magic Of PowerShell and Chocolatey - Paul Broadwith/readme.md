@@ -20,7 +20,7 @@ After this talk, you will come away with an understanding of:
 alt="Click Free Application Deployment With The Magic Of PowerShell and Chocolatey - Paul Broadwith" width="480" height="360" border="10" /></a>
 
 ### Code
-[Demo.ps1](Demo.ps1)
+[demo.ps1](demo.ps1)
 
 [package.tests.ps1](package.tests.ps1)
 
